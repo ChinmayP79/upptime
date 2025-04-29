@@ -6,7 +6,7 @@ sites:
   - name: Google
     url: https://www.google.com
   - name: ChinmayP79
-    url: chinmayp79.rf.gd
+    url: https://chinmayp79.rf.gd
     port: 80
     check: "tcp-ping"
 
